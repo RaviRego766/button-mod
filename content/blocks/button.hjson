@@ -1,4 +1,4 @@
-name: button
+name: Button
 size: 1
 breakable: true
 consumesTap: true
