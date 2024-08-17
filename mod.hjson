@@ -3,6 +3,6 @@
     "displayName": "[#808080]Button",
     "author": "Ravi",
     "description": "A mod that adds Button.",
-    "version": "1.0"
+    "version": "1.0",
     "minGameVersion" : 136
 }
